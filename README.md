@@ -1,5 +1,5 @@
 # Loïc Hauseux
-I'm Loïc from Belgium, Full Stack Developer. I love to learn new things.
+I'm Loïc from Belgium, Full Stack Developer.  I really enjoy learning languages and frameworks.
 <!--
 **lhauseux/lhauseux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
